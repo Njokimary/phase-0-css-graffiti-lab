@@ -1,1 +1,45 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+  display: none;
+}
+#wall .tag-2 {
+  display: none;
+}
+#wall .tag-3 {
+  display: none;
+}
+
+body {
+  background-color: red;
+}
+
+h1 {
+  color: blue;
+}
+
+body {
+  background-color: red;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  font-size: 16px;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  margin: 20px;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
+
+
+
